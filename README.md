@@ -1,3 +1,3 @@
 # project7
 practice_class7
-https://mdkawsarimran9.github.io/project7/
+https://mdkawsardev.github.io/project7/
